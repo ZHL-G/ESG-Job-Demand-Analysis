@@ -82,13 +82,6 @@ Notebook 中包含的主要分析内容包括：
 
 * 薪资区间分析与职位要求对比
 
-## 🔁 项目运行方式
-
-1. 克隆本项目至本地：
-
-   ```bash
-   git clone https://github.com/yourusername/esg-job-analysis.git
-   ```
 
 ## 📂 项目结构说明
 
